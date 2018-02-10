@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">System Hacks Game</string>
+    <string name="title_activity_question_right">QuestionRight</string>
 </resources>
